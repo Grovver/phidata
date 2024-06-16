@@ -10,8 +10,7 @@ We created an open-ended Journalist Workflow that uses 3 GPT-4 Assistants to wri
 ### 1. Create a virtual environment
 
 ```shell
-python3 -m venv ~/.venvs/aienv
-source ~/.venvs/aienv/bin/activate
+python3 -m venv ~/.venvs/aienv source ~/.venvs/aienv/bin/activate
 ```
 
 ### 2. Install libraries
